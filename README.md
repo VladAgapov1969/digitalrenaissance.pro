@@ -45,3 +45,6 @@ Offline, auditable AI systems for regulated, high-stakes environments:
 For serious B2B pilots:  
 👉 [@Sovereign_AI_Results_Requests](https://t.me/Sovereign_AI_Results_Requests)  
 *(No CVs. No free work. No intermediaries.)*
+For professional inquiries:  
+✉️ vladislav.agapov@gmail.com  
+*(Subject: “B2B — [Your Company]”)*
