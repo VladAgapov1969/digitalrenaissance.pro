@@ -33,7 +33,7 @@ Offline, auditable AI systems for regulated, high-stakes environments:
 - **Python + R Integration**:  
   → Statistical modeling (R) + orchestration (Python)  
   → Output in structured Markdown  
-  → Demo: https://t.me/Digital_AI_Transformation/9  
+  → Demo: https://t.me/Digital_AI_Transformation/18  
   → Code: https://gitlab.com/vlad.agapov/python-r-integration-demo  
 
 ### 🛡️ Domain Experience (Confidential Projects)  
