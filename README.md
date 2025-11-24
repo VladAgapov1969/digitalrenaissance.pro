@@ -18,7 +18,7 @@ Offline, auditable AI systems for regulated, high-stakes environments:
 - **MSI Classification (Offline)**:  
   → 75% accuracy on real diagnostic reports  
   → Logic audited in Markdown/XML  
-  → Demo: https://t.me/DigitalRenaissanceGlobal/42  
+  → Demo: https://t.me/DigitalRenaissanceGlobal/41  
   → Code: https://gitlab.com/vlad.agapov/msi-offline-demo  
 
 ### 📊 Sales & Logistics Automation  
@@ -38,7 +38,6 @@ Offline, auditable AI systems for regulated, high-stakes environments:
 
 ### 🛡️ Domain Experience (Confidential Projects)  
 - Anti-DDoS systems for air-gapped infrastructure  
-- Acoustic BPLA recognition in defense applications  
 - Algorithmic trading with capital preservation logic  
 *(Full demos available under NDA for pre-paid pilots)*
 
