@@ -49,8 +49,12 @@ Offline, auditable AI systems for regulated, high-stakes environments:
 
 ⚠️ Fake channels like `@Sovereign_AI` and `@AI_Results` are stolen and contain spam.
 
-For serious B2B pilots:  @agapov_vl
-*(No CVs. No free work. No intermediaries.)*
+For serious B2B pilots:  
+@agapov_vl  
+
+*(No CVs. No free work. No intermediaries.)*  
+
 For professional inquiries:  
 ✉️ vladislav.agapov@gmail.com  
+
 *(Subject: “B2B — [Your Company]”)*
