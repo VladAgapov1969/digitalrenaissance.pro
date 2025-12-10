@@ -41,19 +41,15 @@ Offline, auditable AI systems for regulated, high-stakes environments:
 - Algorithmic trading with capital preservation logic  
 *(Full demos available under NDA for pre-paid pilots)*
 
-## Contact  
-# Verified Channels — AI_Results Project
+## Contact  Sovereign_AI Project
 
 - **Sovereign AI (English)**: [https://t.me/Digital_AI_Transformation](https://t.me/Digital_AI_Transformation)  
-  → Username: [@Sovereign_AI_Real](https://t.me/Sovereign_AI_Real)
 
 - **AI_Results (Russian/Tech)**: [https://t.me/DigitalRenaissanceGlobal](https://t.me/DigitalRenaissanceGlobal)  
-  → Username: [@AI_Results_Real](https://t.me/AI_Results_Real)
 
 ⚠️ Fake channels like `@Sovereign_AI` and `@AI_Results` are stolen and contain spam.
 
-For serious B2B pilots:  
-👉 [@Sovereign_AI_Results_Requests](https://t.me/Sovereign_AI_Results_Requests)  
+For serious B2B pilots:  @agapov_vl
 *(No CVs. No free work. No intermediaries.)*
 For professional inquiries:  
 ✉️ vladislav.agapov@gmail.com  
